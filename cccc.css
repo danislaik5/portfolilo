@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+background-color: aqua;
+}
+
+header{
+    border: black 5px inset; 
+    margin-bottom: 15px;
+    background-color: lightcoral;
+} 
+
+
+main{
+    border: black 5px inset;
+    background-color: palevioletred;
+}
+
+.iii{
+    border: black 5px solid;
+    margin-left:15px ;
+    margin-right:15px ;
+    background-color: darkorange;
+}
+
+footer{
+    border: black 5px solid;
+    margin-top: 15px;
+    background-color:  darksalmon;
+}
+
+.ggg{
+    border: black 5px solid;
+    margin-left:15px ;
+    margin-right:15px ;
+    margin-bottom:15px ;
+}
+
+.yyy{
+  margin-left: 35vw;
+}
+
+div{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.www{
+margin-left: 30vw;
+}
+
+.qqq{
+    margin-left: 40vw;
+}
+
+
+.eee{
+margin-left: 26vw;
+}
+
+.zzz{
+    border: black 5px solid;
+    margin-left:15px ;
+    margin-right:15px ; 
+    background-color: greenyellow;
+}
